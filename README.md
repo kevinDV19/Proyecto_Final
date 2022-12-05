@@ -13,22 +13,22 @@
 # FUNCIONAMIENTO DEL SISTEMA:
 
 <h2> Pantalla Principal: </h2>
-<img href="Principal.jpg">
+<img src="Principal.jpg">
 
 
 <h2> Pantalla Detalles: </h2>
-<img href="Detalles.jpg">
+<img src="Detalles.jpg">
 
 
 <h2> Pantalla Carrito: </h2>
-<img href="Carrito.jpg">
+<img src="Carrito.jpg">
 
 
 <h2> Pantalla Metodos De Pago: </h2>
-<img href="Pago.jpg">
+<img src="Pago.jpg">
 
 
-# CREDENCIALES PARA REALIZAR PAGOS DE PRUEBA: 
+<h2> CREDENCIALES PARA REALIZAR PAGOS DE PRUEBA </h2>
   
 <h2> Paypal: </h2>
   
@@ -46,8 +46,8 @@
 <h3> Fecha de expiración: 11/25 </h3>
 <h3> CVV: 123 </h3>
 
-<img href="Paypal.jpg">
+<img src="Paypal.jpg">
 
 <h2> Pantalla Factura: </h2>
-<img href="Factura.jpg">
+<img src="Factura.jpg">
 
