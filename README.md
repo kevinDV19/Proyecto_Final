@@ -52,7 +52,7 @@
 <img src="Factura.jpg">
 
 # Proyecto en locahost:
-<a href="https://www.apachefriends.org/es/index.html"> Descargar XAMPP para Windows <a>
+<h2><a href="https://www.apachefriends.org/es/index.html"> Descargar XAMPP para Windows <a></h2></d>
 <img src="Localhost.jpg">
 
 
