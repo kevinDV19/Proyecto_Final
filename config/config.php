@@ -14,4 +14,5 @@
         $num_cart = count($_SESSION['carrito']['productos']);
     }
 
+    
 ?>
