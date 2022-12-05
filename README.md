@@ -2,13 +2,13 @@
 
 # VERSIONES:
 
-<h3> Php: 8.1.6 </h2>
-<h3> Bootstrap: 5.1 </h2>
-<h3> XAMPP: 8.1.6 </h2>
-<h3> PhpMyAdmin: 5.2.0 </h2>
-<h3> MariaDB: 10.4.24 </h2>
-<h3> Apache: 2.4.54 </h2>
-<h3> 000webhost: FREE version </h2>
+<h3> Php: 8.1.6 </h3>
+<h3> Bootstrap: 5.1 </h3>
+<h3> XAMPP: 8.1.6 </h3>
+<h3> PhpMyAdmin: 5.2.0 </h3>
+<h3> MariaDB: 10.4.24 </h3>
+<h3> Apache: 2.4.54 </h3>
+<h3> 000webhost: FREE version </h3>
 
 
 # CREDENCIALES PARA REALIZAR PAGOS DE PRUEBA: 
