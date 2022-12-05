@@ -6,7 +6,6 @@
         private $password = "vZN5-Wj=Untonl3y";
         private $charset = "utf8";
 
-        
         function conectar()
         {
             try{
