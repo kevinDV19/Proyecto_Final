@@ -1,4 +1,4 @@
-# PROYECTO FINAL
+# PROYECTO FINAL - Tienda Online con PHP y MySQL
 
 # VERSIONES
 
