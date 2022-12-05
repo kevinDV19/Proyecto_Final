@@ -5,7 +5,7 @@
 
     MercadoPago\SDK::setAccessToken(TOKEN_MP);
 
-    
+
     $preference = new MercadoPago\Preference();
     $productos_mp = array();
 
@@ -28,6 +28,7 @@
     }
 
 ?>
+
 
 
 
