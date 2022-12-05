@@ -10,6 +10,23 @@
 <h3> Apache: 2.4.54 </h3>
 <h3> 000webhost: FREE version </h3>
 
+# FUNCIONAMIENTO DEL SISTEMA:
+
+<h2> Pantalla Principal: </h2>
+<img href="Principal.jpg">
+
+
+<h2> Pantalla Detalles: </h2>
+<img href="Detalles.jpg">
+
+
+<h2> Pantalla Carrito: </h2>
+<img href="Carrito.jpg">
+
+
+<h2> Pantalla Metodos De Pago: </h2>
+<img href="Pago.jpg">
+
 
 # CREDENCIALES PARA REALIZAR PAGOS DE PRUEBA: 
   
@@ -28,3 +45,9 @@
 <h3> Numero de tarjeta: 4075 5957 1648 3764 </h3>
 <h3> Fecha de expiración: 11/25 </h3>
 <h3> CVV: 123 </h3>
+
+<img href="Paypal.jpg">
+
+<h2> Pantalla Factura: </h2>
+<img href="Factura.jpg">
+
