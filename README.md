@@ -1,10 +1,13 @@
 # Proyecto_Final
 
-# Versiones:
+#VERSIONES:
 
-<h2> PHP: 8.1.6 </h2>
-
-
+<h2> Php: 8.1.6 </h2>
+<h2> Bootstrap: 5.1 </h2>
+<h2> XAMPP: 8.1.6 </h2>
+<h2> PhpMyAdmin: 5.2.0 </h2>
+<h2> MariaDB: 10.4.24 </h2>
+<h2> Apache: 2.4.54 </h2>
 
 
 
