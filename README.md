@@ -56,10 +56,7 @@
 <img src="Localhost.jpg">
 
 # Subir Proyecto en Host Gratuito:
-
-
-<video src="video.mp4" poster="Principal.jpg" controls></video>
-
+[![Alt text](https://img.youtube.com/vi/IfAGMByR-4E/0.jpg)](https://www.youtube.com/watch?v=IfAGMByR-4E)
 
 
 
