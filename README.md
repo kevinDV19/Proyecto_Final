@@ -8,6 +8,7 @@
 <h3> PhpMyAdmin: 5.2.0 </h2>
 <h3> MariaDB: 10.4.24 </h2>
 <h3> Apache: 2.4.54 </h2>
+<h3> 000webhost: FREE version </h2>
 
 
 # CREDENCIALES PARA REALIZAR PAGOS DE PRUEBA: 
