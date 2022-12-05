@@ -1,6 +1,6 @@
 # PROYECTO FINAL
 
-<h2> VERSIONES </h2>
+# VERSIONES
 
 <h3> Php: 8.1.6 </h3>
 <h3> Bootstrap: 5.1 </h3>
