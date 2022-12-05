@@ -51,3 +51,8 @@
 <h2> Pantalla Factura: </h2>
 <img src="Factura.jpg">
 
+# Proyecto en locahost:
+<img src="Localhost.jpg">
+
+
+
