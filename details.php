@@ -3,6 +3,7 @@
     require 'config/database.php';
     $db = new Database();
     $con = $db->conectar();
+    
 
     $id = isset($_GET['id']) ? $_GET['id'] : '';
     $token = isset($_GET['token']) ? $_GET['token'] : '';
