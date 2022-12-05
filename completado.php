@@ -99,7 +99,6 @@
                     <b>Total: </b><?php echo MONEDA . number_format($total, 2, '.', ','); ?><br>
                 </div>
             </div>
-
             <div class="row">
                 <div class="col">
                     <table class="table">
