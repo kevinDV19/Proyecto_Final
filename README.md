@@ -51,9 +51,13 @@
 <h2> Pantalla Factura: </h2>
 <img src="Factura.jpg">
 
-# Proyecto en locahost:
+# Proyecto En Locahost:
 <h2><a href="https://www.apachefriends.org/es/index.html"> Descargar XAMPP para Windows <a></h2>
 <img src="Localhost.jpg">
+
+# Subir Proyecto en Host Gratuito:
+
+<video src="https://youtu.be/IfAGMByR-4E" width="420"  height="240"></video>
 
 
 
